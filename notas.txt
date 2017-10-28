@@ -1,0 +1,33 @@
+brasil317
+serenatadeamor.org
+icons.org.br
+goesportes.org
+intelivix.com
+saudeacessivel
+jusbrasil
+lyst
+lovemondays
+
+http://www.portaltransparencia.gov.br/copa2014/api/rest/empreendimento
+http://educacao.dadosabertosbr.com/api
+
+Quando se raspa os dados, os dados vem como tipo string, sendo necessário converter.
+
+type('yang') : tipo do dado/objeto
+dir('yang') : funções do dado/objeto
+'yang'.upper() : coloca em caixa alta
+help('yang'.upper()) : sintaxe e retorno
+
+import bs4 : importa biblioteca de código
+
+	Pessoas > Dados > Tecnologias
+
+A guide to preveting webscraping
+
+deathbycaptcha
+2captcha
+recaptcha
+anticaptcha
+
+https://gist.github.com/fmasanori/2aadc05fc84e6c98f51b9bbc435153ef
+
